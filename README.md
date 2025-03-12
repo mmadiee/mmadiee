@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmadiee
 - 👀 I’m interested in creating user-friendly websites
-- 🌱 My tech stack includes: Javascript(Node.js/Express.js/React.js) and PHP
+- 🌱 My tech stack includes: Javascript(Node.js/Express.js/React.js) 
 - 📫 How to reach me: www.linkedin.com/in/demi-mae-manipolo
 - 😄 Pronouns: she/her
 
